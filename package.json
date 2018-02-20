@@ -1,0 +1,16 @@
+{
+  "name": "twitch-naughties",
+  "version": "1.0.0",
+  "description": "gets information about banned users for statistical purposes",
+  "main": "index.js",
+  "scripts": {
+    "lurk": "node index.js",
+    "read": "node reader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paperslove",
+  "license": "WTFPL",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
