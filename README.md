@@ -2,7 +2,8 @@
 
 made this out of scratch out of personal interest (and teaching myself in the process)
 
-_so what does it do?_
+**_so what does it do?_**
+
 saves the latest (up to 100) follows of a banned chatter.
 this was created due interest to see if toxicity by streamers affect chatters/viewers.
 
