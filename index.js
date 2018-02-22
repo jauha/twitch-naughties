@@ -16,7 +16,7 @@ var options = {
         username: "<YOUR BOT NAME>",
         password: "oauth:<ADD YOUR OWN OAUTH HERE>"
     },
-    channels: ["#shroud"]
+    channels: ["#shroud"] // initial channel shouldn't matter, chose shroud since he was online most of the time during developement
 };
 
 var client = new tmi.client(options);
